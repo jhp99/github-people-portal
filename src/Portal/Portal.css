@@ -1,0 +1,41 @@
+body{
+    background: #eee;
+    margin: 20px;
+    font-family: tahoma;
+  }
+  
+  #portal-wrapper{
+    width: 50%;
+    margin: 0 auto;
+    background: #fff;
+    border-top: 3px solid #898fe6;
+    padding: 10px;
+    border-radius: 2px;
+    box-shadow: 1px 3px 5px rgba(0,0,0,0.2);
+    color: #333;
+  }
+
+
+
+
+
+.card{
+    border-bottom: 1px dashed #bbb;
+}
+
+.card img{
+    width: 75px;   
+}
+
+.card-info{
+    display: inline-block;
+    margin-left: 15px;
+    font-size: 1.25em;
+    font-weight: bold;
+    color: #898fe6;
+}
+
+
+
+
+  
