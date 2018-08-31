@@ -44,4 +44,3 @@ const CardList = (props) => {
 
 export default Portal;
 
-/* octocat jeyshah9  */
